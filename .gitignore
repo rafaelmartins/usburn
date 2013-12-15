@@ -1,4 +1,6 @@
 usburn
+*.dat
+*_db.txt
 
 # Object files
 *.o
